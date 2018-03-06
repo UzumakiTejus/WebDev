@@ -5,19 +5,19 @@
 <style>
 body{
 	color:blue;
-	font-family="Courier New";
+	
 }
 h1{
 	color:green;
-	font-family="Helvetica";
+	
 }
 h3{
 	color:red;
-	font-family="Helvetica";
+	
 }
 h4{
 	color:brown;
-	font-family="Helvetica";
+	
 }
 </style>
 <title>Its all about ME!!!</title>
